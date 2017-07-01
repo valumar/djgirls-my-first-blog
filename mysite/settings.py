@@ -25,7 +25,7 @@ SECRET_KEY = 'wx42zyk51pptd(8!t)tc2(a_-_6%phq!m5$n*1x%6h54t02xq-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['valumarus.pythonanywhere.com']
 
 
 # Application definition
